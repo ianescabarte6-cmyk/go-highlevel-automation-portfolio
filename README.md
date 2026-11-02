@@ -109,6 +109,24 @@ A multi-day SMS follow-up workflow with reply detection, DND conditions, and opp
 ### 4. Appointment Scheduling and Reminder Automation
 An appointment management workflow with confirmations, timed reminders, conditional branches, contact tags, and opportunity updates.
 
+#### Workflow Screenshots
+
+**Appointment Scheduling & Reminder Automation — Workflow Overview**
+
+![Appointment Scheduling and Reminder Workflow](screenshots/Appointment_Reminders_1_Anonymized.png)
+
+**View additional workflow screenshots:**
+
+- [Screenshot 2 — Opportunity Management and Routing](screenshots/Appointment_Reminders_2_Anonymized.png)
+- [Screenshot 3 — Confirmation and Reminder Branches](screenshots/Appointment_Reminders_3_Anonymized.png)
+- [Screenshot 4 — Multi-Step Reminder Automation](screenshots/Appointment_Reminders_4_Anonymized.png)
+- [Screenshot 5 — Conditional Confirmation Handling](screenshots/Appointment_Reminders_5_Anonymized.png)
+- [Screenshot 6 — Extended Follow-up Logic](screenshots/Appointment_Reminders_6_Anonymized.png)
+
+**Skills demonstrated:** GoHighLevel appointment automation, calendar-based workflows, confirmation messages, conditional branching, contact tags, opportunity management, wait steps, and automated follow-up.
+
+*Screenshots demonstrate workflow configuration; successful message delivery and end-to-end testing are not independently verified.*
+
 ### 5. Reschedule Requested Follow-up
 An automation for rescheduling inquiries using opportunity stage triggers, personalized messages, and internal notifications.
 
