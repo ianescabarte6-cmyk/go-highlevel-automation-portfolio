@@ -32,6 +32,25 @@ My additional experience includes quality assurance, customer support, reporting
 
 ### 1. X-Date Tracking and Reactivation
 A follow-up automation featuring assigned-user routing, call tasks, internal notifications, and scheduled follow-up actions.
+#### Workflow Screenshots
+
+**1. Workflow Triggers and Initial Configuration**
+
+![X-Date Workflow Triggers](screenshots/X-Date_Tracking_Reactivation_1.png)
+
+**2. Opportunity Management and Workflow Conditions**
+
+![X-Date Opportunity Management](screenshots/X-Date_Tracking_Reactivation_2.png)
+
+**3. X-Date Validation and Conditional Routing**
+
+![X-Date Conditional Routing](screenshots/X-Date_Tracking_Reactivation_3.png)
+
+**4. Assigned Owner Routing and Follow-up Actions**
+
+![X-Date Owner Routing](screenshots/X-Date_Tracking_Reactivation_4.png)
+
+**Skills demonstrated:** GoHighLevel workflow automation, conditional logic, X-Date tracking, opportunity management, internal notifications, wait steps, assigned-user routing, and lead reactivation.
 
 ### 2. Quoted Hot Leads Follow-up
 A sales follow-up workflow featuring owner-specific branches, timed actions, Powerlist management, and internal notifications.
