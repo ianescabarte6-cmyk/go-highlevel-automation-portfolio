@@ -176,7 +176,7 @@ The following projects demonstrate my experience with the GoHighLevel page build
 
 ## Additional Tools & Platforms
 
-GoHighLevel | Zendesk | Shopify | Google Workspace | Microsoft Excel | Microsoft Office | Slack | Calendly | Canva
+GoHighLevel | Zendesk | Shopify | Google Workspace | Microsoft Excel | Microsoft Office | Slack | Calendly | Canva | Zapier | Hubspot | IDX
 
 ---
 
