@@ -76,6 +76,36 @@ A sales follow-up workflow featuring owner-specific branches, timed actions, Pow
 ### 3. New Leads SMS Drip Campaign
 A multi-day SMS follow-up workflow with reply detection, DND conditions, and opportunity updates.
 
+#### Workflow Screenshots
+
+**1. Workflow Triggers and Lead Segmentation**
+
+![New Leads SMS Drip - Triggers](screenshots/New_Leads_SMS_Drip_1_Anonymized.png)
+
+**2. Initial SMS and Reply Detection**
+
+![New Leads SMS Drip - Initial Follow-up](screenshots/New_Leads_SMS_Drip_2_Anonymized.png)
+
+**3. Early Follow-up and DND Handling**
+
+![New Leads SMS Drip - Early Cadence](screenshots/New_Leads_SMS_Drip_3_Anonymized.png)
+
+**4. Multi-Day SMS Follow-up and Conditional Routing**
+
+![New Leads SMS Drip - Conditional Routing](screenshots/New_Leads_SMS_Drip_4_Anonymized.png)
+
+**5. Extended Lead Nurturing Sequence**
+
+![New Leads SMS Drip - Extended Cadence](screenshots/New_Leads_SMS_Drip_5_Anonymized.png)
+
+**6. Final Follow-up and Lead Status Management**
+
+![New Leads SMS Drip - Final Follow-up](screenshots/New_Leads_SMS_Drip_6_Anonymized.png)
+
+**Skills demonstrated:** GoHighLevel workflow automation, SMS drip campaigns, automated lead nurturing, conditional logic, reply detection, DND handling, wait steps, contact segmentation, and opportunity management.
+
+*These screenshots demonstrate workflow configuration. Live message delivery and end-to-end testing results are not shown.*
+
 ### 4. Appointment Scheduling and Reminder Automation
 An appointment management workflow with confirmations, timed reminders, conditional branches, contact tags, and opportunity updates.
 
