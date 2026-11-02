@@ -86,7 +86,7 @@ An automation for rescheduling inquiries using opportunity stage triggers, perso
 
 ## Tools and Platforms
 
-GoHighLevel | Zendesk | Shopify | Google Workspace | Microsoft Excel | Slack | Calendly | Canva
+GoHighLevel | Zendesk | Shopify | Google Workspace | Microsoft Excel | Slack | Calendly | Canva | Zapier | Hubspot | Kixie | IDX
 
 ## Professional Focus
 
