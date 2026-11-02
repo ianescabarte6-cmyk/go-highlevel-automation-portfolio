@@ -55,6 +55,24 @@ A follow-up automation featuring assigned-user routing, call tasks, internal not
 ### 2. Quoted Hot Leads Follow-up
 A sales follow-up workflow featuring owner-specific branches, timed actions, Powerlist management, and internal notifications.
 
+#### Workflow Screenshots
+
+**1. Lead Qualification Triggers and Opportunity Management**
+
+![Quoted Hot Leads - Workflow Triggers](screenshots/Quoted_Hot_Leads_1_Anonymized.png)
+
+**2. Assigned Owner Routing and Internal Notifications**
+
+![Quoted Hot Leads - Assigned Owner Routing](screenshots/Quoted_Hot_Leads_2_Anonymized.png)
+
+**3. Timed Follow-up and PowerList Automation**
+
+![Quoted Hot Leads - Follow-up Automation](screenshots/Quoted_Hot_Leads_3_Anonymized.png)
+
+**Skills demonstrated:** GoHighLevel CRM automation, lead management, pipeline automation, assigned-owner routing, conditional logic, internal notifications, timed follow-up, and PowerList management.
+
+*These screenshots demonstrate workflow configuration; live execution and testing results are not shown.*
+
 ### 3. New Leads SMS Drip Campaign
 A multi-day SMS follow-up workflow with reply detection, DND conditions, and opportunity updates.
 
